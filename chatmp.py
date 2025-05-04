@@ -1,3 +1,4 @@
+# Written by Kimball Springall
 """
 chatmp.py -- MicroPython Pico W basic ChatGPT client
 Connects to Wi-Fi, prompts for user input, sends to OpenAI ChatCompletion,
